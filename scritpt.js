@@ -1,3 +1,4 @@
+
 const audio = document.querySelector("#music") ;
 const one = document.querySelector(".one") ;
 const two = document.querySelector(".two") ;
